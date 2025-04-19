@@ -10,6 +10,7 @@
 # PROCESS-NAME: 1
 # TOTAL: 25041
 DOMAIN,abematv.akamaized.net
+
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,apple.comscoreresearch.com
@@ -120,6 +121,7 @@ DOMAIN-SUFFIX,ftimg.net
 DOMAIN-SUFFIX,fullstory.com
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,hongxingyunmovie.vip
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
@@ -24953,7 +24955,6 @@ DOMAIN-KEYWORD,18comic.vip
 DOMAIN-KEYWORD,91porn.com
 DOMAIN-KEYWORD,longportapp.com
 DOMAIN-KEYWORD,qingse.one
-DOMAIN-KEYWORD,hongxingyunmovie.vip
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.96.0/20,no-resolve
